@@ -209,7 +209,7 @@ p {
 }
 ```
 
-![image](https://github.com/user-attachments/assets/6011b1de-15d6-4560-a721-f0aee0cf4e1d)
+![image](https://github.com/user-attachments/assets/6011b1de-15d6-4560-a721-f0aee0cf  4e1d)
 
 ## CSSを書いてみよう
 インプットした内容を基に、手を動かして試してみましょう。同じディレクトリにあるindex.htmlとstyles.cssに指示に従ってコードを書いてください。わからなければ回答例を見てもOKです。index.htmlをブラウザで表示して、ビフォーアフターも確認してみてください。
