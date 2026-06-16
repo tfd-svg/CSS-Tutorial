@@ -76,7 +76,7 @@ h3 + p {
 </div>
 ```
 
-![image](https://github.com/user-attachments/assets/e83da664-01cd-496b-8241-3071b7b42ce9)
+![image](https://github.com/user-attachments/assets/e83da664-0  1cd-496b-8241-3071b7b42ce9)
 
 ## CSSを書いてみよう
 インプットした内容を基に、早速手を動かして試してみましょう。index.htmlを確認し、指示に従ってCSSを書いてください。まずは自身で書いてみて、わからなければ回答例を見てもOKです。index.htmlをブラウザで表示して、ビフォーアフターも確認してみてください。
